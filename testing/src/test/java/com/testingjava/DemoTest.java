@@ -22,7 +22,7 @@ public class DemoTest {
 	@Test
 	public void createDemo4Test()
 	{
-		Reporter.log("Test Demo4",true);//to print
+		Reporter.log("Test Demo4",true);//for printing we use rep.log
 	}
 
 }
