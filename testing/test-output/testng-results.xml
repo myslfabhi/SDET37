@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Test Demo3]]>
+    </line>
+    <line>
+      <![CDATA[Test Demo4]]>
+    </line>
+    <line>
+      <![CDATA[Test Demo1]]>
+    </line>
+    <line>
+      <![CDATA[Test Demo2]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-07-18T09:27:20Z" name="Default suite" finished-at="2022-07-18T09:27:20Z" duration-ms="44">
+    <groups>
+    </groups>
+    <test started-at="2022-07-18T09:27:20Z" name="Default test" finished-at="2022-07-18T09:27:20Z" duration-ms="44">
+      <class name="com.testingjava.DemoTest">
+        <test-method signature="CreateDemo3Test()[pri:0, instance:com.testingjava.DemoTest@7d446ed1]" started-at="2022-07-18T14:57:20Z" name="CreateDemo3Test" finished-at="2022-07-18T14:57:20Z" duration-ms="16" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Demo3]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CreateDemo3Test -->
+        <test-method signature="CreateDemo4Test()[pri:0, instance:com.testingjava.DemoTest@7d446ed1]" started-at="2022-07-18T14:57:20Z" name="CreateDemo4Test" finished-at="2022-07-18T14:57:20Z" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Demo4]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CreateDemo4Test -->
+        <test-method signature="createDemo1Test()[pri:0, instance:com.testingjava.DemoTest@7d446ed1]" started-at="2022-07-18T14:57:20Z" name="createDemo1Test" finished-at="2022-07-18T14:57:20Z" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Demo1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createDemo1Test -->
+        <test-method signature="createDemo2Test()[pri:0, instance:com.testingjava.DemoTest@7d446ed1]" started-at="2022-07-18T14:57:20Z" name="createDemo2Test" finished-at="2022-07-18T14:57:20Z" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Demo2]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createDemo2Test -->
+      </class> <!-- com.testingjava.DemoTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
