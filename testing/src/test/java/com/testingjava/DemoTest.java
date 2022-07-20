@@ -23,8 +23,8 @@ public class DemoTest {
 	@Test
 	public void createDemo4Test()
 	{
-		Reporter.log("Test Demo4",true);
-		//1st practiseeee
+		Reporter.log("Test Demo4",true);//for printing we use rep.log
+
 	}
 
 }
