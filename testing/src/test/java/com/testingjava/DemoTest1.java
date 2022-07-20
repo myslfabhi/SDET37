@@ -18,6 +18,8 @@ public class DemoTest1 {
 	public void createDemo7()
 	{
 		Reporter.log("Test Demo7",true);
+		
+		
 	}
 
 }
