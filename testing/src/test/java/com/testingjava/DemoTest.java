@@ -13,6 +13,7 @@ public class DemoTest {
 	public void createDemo2Test()
 	{
 		Reporter.log("Test Demo2",true);
+		
 	}
 	@Test
 	public void createDemo3Test()
@@ -23,6 +24,7 @@ public class DemoTest {
 	public void createDemo4Test()
 	{
 		Reporter.log("Test Demo4",true);//for printing we use rep.log
+
 	}
 
 }
