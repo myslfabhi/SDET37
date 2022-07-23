@@ -9,8 +9,7 @@ public class DemoTest {
 	{
 	String browser = System.getProperty("browser");
 		String url=System.getProperty("url");
-		System.out.println("browser is "+ browser+ "url is "+ url);
-		
+		System.out.println("browser is "+ browser+ " url is "+ url);
 		
 		Reporter.log("Test Demo1",true);
 	}
