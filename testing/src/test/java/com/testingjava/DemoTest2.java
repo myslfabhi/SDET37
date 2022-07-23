@@ -20,7 +20,7 @@ public void practiceTest1()
 	System.out.println(System.getProperty("url"));
 	System.out.println(System.getProperty("USERNAME"));
 	System.out.println(System.getProperty("PASSWORD"));
-	System.out.println("hello hii how are u");
+	System.out.println("poll scm");
 	
 }
 {
